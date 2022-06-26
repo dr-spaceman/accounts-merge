@@ -6,7 +6,7 @@ On June 21, 2022, Samantha White at [Fevo](https://fevo.com) challenged [Matt Be
 
 The root folder includes only source files, compiled for execution in the `dist` folder. The easiest way is to run these with node:
 
-`node ./dist/console.js`
+`node ./dist/run.js`
 
 ### Recompile
 
