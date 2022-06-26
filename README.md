@@ -1,10 +1,10 @@
 # accounts-merge
 
-On June 21, 2022, Samantha White at [Fevo](https://fevo.com) challenged [Matt Berti](https://brti.dev) to a coding feat of strength. This is his answer.
+On June 21, 2022, Samantha White at [Fevo](https://fevo.com) challenged [Matt Berti](https://brti.dev) to a coding feat of strength. This is his answer “ヽ(´▽｀)ノ”
 
 ## Run
 
-The root folder includes only source files, compiled for execution in the `dist` folder. The easiest way is to run these with node:
+The root folder includes source files, compiled for execution in the `dist` folder. The easiest way to run these is with node:
 
 `node ./dist/run.js`
 
@@ -16,7 +16,7 @@ To recompile scripts from source, run, `tsc`, which uses config at `tsconfig.jso
 
 ### Type safety
 
-Input and output objects are typed based on the instructions to minimize errors prior to deployment (or code review by the Fevo Talent Team).
+Input and output objects are typed based on the [instructions](instructions.txt) to minimize errors prior to deployment (or code review by the Fevo Talent Team).
 
 ### Resolve conflicting types
 
